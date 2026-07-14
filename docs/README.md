@@ -4,7 +4,7 @@
 
 
 - ![Static Badge](https://img.shields.io/badge/NonnaYourBusiness-%238B0000?style=soci&label=Name&color=%238B0000)
-- ![Static Badge](https://img.shields.io/badge/15-%238B0000?style=soci&logoColor=%238B0000&label=Age&color=%238B0000)
+- ![Static Badge](https://img.shields.io/badge/16-%238B0000?style=soci&logoColor=%238B0000&label=Age&color=%238B0000)
 - ![Static Badge](https://img.shields.io/badge/Iran-%238B0000?style=soci&logoColor=country&label=Bornin%20%3A%20&color=%238B0000)
 - ![Static Badge](https://img.shields.io/badge/%20%20GameDevelopment-%238B0000?style=soci&logoColor=country&label=Interested%20in%20%3A%20&color=%238B0000)
 
@@ -27,11 +27,7 @@
 
 
 # ![Static Badge](https://img.shields.io/badge/Currently_working_on:-%238B0000?style=soci&logoColor=country&color=%238B0000)
-
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhodeNima&repo=NyvoNetHunter&theme=shadow_red)
-    
+Nothing. Studying.
 
 
 # ![Static Badge](https://img.shields.io/badge/Description-%238B0000?style=soci&logoColor=country&color=%238B0000)
