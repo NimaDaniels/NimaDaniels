@@ -31,7 +31,3 @@ Nothing. Studying.
 
 
 # ![Static Badge](https://img.shields.io/badge/Description-%238B0000?style=soci&logoColor=country&color=%238B0000)
-
-
-> [!NOTE]
-> This account is a contiunous fork of the [**Older KhodeNima account**](https://github.com/KhodeNima).
