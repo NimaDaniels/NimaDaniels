@@ -6,7 +6,7 @@
 - ![Static Badge](https://img.shields.io/badge/NonnaYourBusiness-%238B0000?style=soci&label=Name&color=%238B0000)
 - ![Static Badge](https://img.shields.io/badge/16-%238B0000?style=soci&logoColor=%238B0000&label=Age&color=%238B0000)
 - ![Static Badge](https://img.shields.io/badge/Iran-%238B0000?style=soci&logoColor=country&label=Bornin%20%3A%20&color=%238B0000)
-- ![Static Badge](https://img.shields.io/badge/%20%20GameDevelopment-%238B0000?style=soci&logoColor=country&label=Interested%20in%20%3A%20&color=%238B0000)
+- ![Static Badge](https://img.shields.io/badge/%20%20Software-GameDevelopment-%238B0000?style=soci&logoColor=country&label=Interested%20in%20%3A%20&color=%238B0000)
 
 
 
