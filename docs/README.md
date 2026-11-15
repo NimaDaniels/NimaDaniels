@@ -19,7 +19,7 @@
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="100" />
     <br>
     <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/git.png" alt="git" width="150" />
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/adobe_photoshop.png" alt="python" width="100" />
+    <img src="https://github.com/NimaDaniels/NimaDaniels/blob/Main.Project/pictures/adobe_photoshop.png" alt="photoshop_basics" width="100" />
     
     Hardware
     MSI Afterburner
