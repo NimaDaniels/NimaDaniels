@@ -4,7 +4,7 @@
 
 
 - ![Static Badge](https://img.shields.io/badge/NonnaYourBusiness-%238B0000?style=soci&label=Name&color=%238B0000)
-- ![Static Badge](https://img.shields.io/badge/16-%238B0000?style=soci&logoColor=%238B0000&label=Age&color=%238B0000)
+- ![Static Badge](https://img.shields.io/badge/17-%238B0000?style=soci&logoColor=%238B0000&label=Age&color=%238B0000)
 - ![Static Badge](https://img.shields.io/badge/Iran-%238B0000?style=soci&logoColor=country&label=Bornin%20%3A%20&color=%238B0000)
 - ![Static Badge](https://img.shields.io/badge/%20%20Software-GameDevelopment-%238B0000?style=soci&logoColor=country&label=Interested%20in%20%3A%20&color=%238B0000)
 
@@ -15,10 +15,10 @@
 
 
 <p align="center">
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/python.png" alt="python" width="100" />
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/json.png" alt="json" width="100" />
+    <img src="https://github.com/NimaDaniels/NimaDaniels/blob/Main.Project/pictures/python.png" alt="python" width="100" />
+    <img src="https://github.com/NimaDaniels/blob/Main.Project/pictures/json.png" alt="json" width="100" />
     <br>
-    <img src="https://github.com/KhodeNima/KhodeNima/blob/Main.Project/pictures/git.png" alt="git" width="150" />
+    <img src="https://github.com/NimaDaniels/NimaDaniels/blob/Main.Project/pictures/git.png" alt="git" width="150" />
     <img src="https://github.com/NimaDaniels/NimaDaniels/blob/Main.Project/pictures/adobe_photoshop.png" alt="photoshop_basics" width="100" />
     
     Hardware
